@@ -7,7 +7,6 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorhf9397&hide_progress=true"/>
 </div>
-<p/>
 <br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gorhf9397&show_icons=true&theme=highcontrast"/>
