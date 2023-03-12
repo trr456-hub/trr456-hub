@@ -9,5 +9,5 @@
 </div>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gorhf9397&show_icons=true&theme=highcontrast"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gorhf9397&show_icons=true"/>
 </div>
