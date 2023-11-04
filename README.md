@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=HI%20there%20🤟&fontSize=90&desc=ID%20:%20gorhf9397%20/%20NAME%20:%20SEOKGEUN&descAlignY=65&descAlign=57)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=HI%20there%20🤟&fontSize=90&desc=ID%20:%20trr456-hub%20/%20NAME%20:%20KSG&descAlignY=65&descAlign=57)
 
 <div align="center">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrr456-hub&count_bg=%23CFD914&title_bg=%237A7A7A&icon=&icon_color=%23E7E7E7&title=view&edge_flat=false"/>
