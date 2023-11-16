@@ -4,7 +4,7 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrr456-hub&count_bg=%23CFD914&title_bg=%237A7A7A&icon=&icon_color=%23E7E7E7&title=view&edge_flat=false"/>
 </div>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={trr456-hub})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={trr321})](https://solved.ac/{handle})
 <br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=trr456-hub&show_icons=true"/>
