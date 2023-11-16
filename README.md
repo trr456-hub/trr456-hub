@@ -4,7 +4,8 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrr456-hub&count_bg=%23CFD914&title_bg=%237A7A7A&icon=&icon_color=%23E7E7E7&title=view&edge_flat=false"/>
 </div>
 <div>
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=trr321)](https://solved.ac/trr321)
+    [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=trr321)](https://solved.ac/trr321)
 </div>
 <br>
 <div align="center">
