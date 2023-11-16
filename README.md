@@ -6,6 +6,7 @@
 <div align="center">
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trr321)](https://solved.ac/trr321/)
+
 </div>
 
 <br>
