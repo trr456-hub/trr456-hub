@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
@@ -37,6 +38,5 @@
     <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/VSC-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
 </div>
 <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=flat&logo=기술스택아이콘&logoColor=white"> -->
